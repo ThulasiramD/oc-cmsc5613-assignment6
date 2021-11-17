@@ -1,5 +1,5 @@
-Green and
-Yellow and
-Blue and
-White and
+Green not 
+Yellow not 
+Blue not 
+White not 
 Black
